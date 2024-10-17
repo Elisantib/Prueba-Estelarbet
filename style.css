@@ -1,0 +1,20 @@
+
+body {
+    background-color: #12182a;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0
+}
+
+.img-logo {
+    width: 200px;
+}
+
+.nav1 {
+    display: flex;
+}
+
+.nav2 {
+    display: flex;
+
+}
